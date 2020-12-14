@@ -1,0 +1,17 @@
+#justePrix {
+    display: none;
+}
+
+#resultatPhraseJuste {
+    color: green;
+}
+
+#plusPetit {
+    display: none;
+    color: red;
+}
+
+#plusGrand {
+    display: none;
+    color: red;
+}
